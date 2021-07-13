@@ -1,0 +1,35 @@
+body{
+  line-height:2;
+  font-family: Arial;
+   
+}
+  img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:8rem;
+   
+}
+#header{background:#25a186;
+  width:100%;
+    height:7.5rem;
+  margin:0px;
+  color:white;
+  padding:1%;
+  font-weight :bold;
+  text-align:center;
+  line-height:1;
+  position:absolute;
+  top:0;
+}
+#img-caption {
+    font-style:italic;
+    margin-top: 0;
+  text-align: center;
+line-height:1.2}
+ul {
+  display: block;
+  margin-left: 10%;
+}
